@@ -9,10 +9,3 @@ this test added by in the test1 branch in browser
 
 this line  was added from desktop
 
-this test added by in the test1 branch in browser
-
-this line  was added from desktop
-
-this test added by in the test1 branch in browser
-
-this line  was added from desktop
